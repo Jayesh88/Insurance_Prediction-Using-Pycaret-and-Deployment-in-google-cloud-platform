@@ -18,7 +18,7 @@ cols = ['age', 'sex', 'bmi', 'children', 'smoker', 'region']
 
 @app.route('/')
 def home():
-    return render_template('Jayesh_abc.html')
+    return render_template('home.html')
 
     
 @app.route('/predict',methods=['POST'])
