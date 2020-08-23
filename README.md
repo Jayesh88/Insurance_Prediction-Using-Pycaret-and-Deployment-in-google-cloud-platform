@@ -1,1 +1,20 @@
 # Insurance Prediction Using Pycaret and Deployment in Google Cloud Platform
+
+![use of diffenttechniques](https://user-images.githubusercontent.com/61301712/90972746-c9a88980-e4e9-11ea-9283-cbf240578a49.PNG)
+
+for creating this project i have refered this article https://towardsdatascience.com/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b
+
+This project gives us an understanding on:
+1. Dockers or containers:  
+2. kubernets:
+
+
+Tool box for this tutorials are:
+1. PyCaret: It is one of the technique where with low code, all type of analysis cna be done. This library is capable of performing all data pre processing and machine lerning tasks.
+2. Flask: It is used to created web based applications. When we create a machine learning model we can create a server for it using flask api.
+3. Google cloud platform: It is a cloud platform which can host your web page. T host your web page on this platform you need to create account on GCP.
+
+
+### Deploment of the code on Google cloud platform:
+
+
