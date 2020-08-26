@@ -18,7 +18,7 @@ Tool box for this tutorials are:
 
 
 ### Deploment of the code on Google cloud platform:
-For DePloyment in GCP i followed the steps in the artile provided above.
+For DePloyment in GCP i followed the steps in the article provided above.
 
 
 
