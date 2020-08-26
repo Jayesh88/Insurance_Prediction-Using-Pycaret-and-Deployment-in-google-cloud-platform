@@ -6,7 +6,9 @@ for creating this project i have refered this article https://towardsdatascience
 
 This project gives us an understanding on:
 1. Dockers or containers:  Dockers are one of the tools which helps in environment standardizaion, that measn regardless of which environmnet you run the application on docker provides equal response. Docker containers once created can be deployed anywhere.
-2. kubernets:
+2. kubernets: Kubernetes is a system for running and coordinating with docker containerized applications across a cluster of machines. It is a platform designed to completely manage the life cycle of containerized applications. Also, it helps to extend life cycle of the applications.
+
+##### Difference between dockers and Kubernets, is that dockers is a tool that allows you to containerize applications. while kubernets are like the management systems which manages hundreds of dockers at a time.
 
 
 Tool box for this tutorials are:
@@ -16,5 +18,9 @@ Tool box for this tutorials are:
 
 
 ### Deploment of the code on Google cloud platform:
+For DePloyment in GCP i followed the steps in the artile provided above.
+
+
+
 
 
