@@ -5,7 +5,7 @@
 for creating this project i have refered this article https://towardsdatascience.com/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b
 
 This project gives us an understanding on:
-1. Dockers or containers:  
+1. Dockers or containers:  Dockers are one of the tools which helps in environment standardizaion, that measn regardless of which environmnet you run the application on docker provides equal response. Docker containers once created can be deployed anywhere.
 2. kubernets:
 
 
